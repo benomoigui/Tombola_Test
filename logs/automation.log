@@ -1,0 +1,34 @@
+13:58:26.844 [main] INFO  stepDefinitions.steps - Opening URL
+13:58:32.844 [main] INFO  stepDefinitions.steps - Maximizing window
+13:58:33.145 [main] INFO  stepDefinitions.steps - Waiting for page to load
+13:58:33.241 [main] INFO  stepDefinitions.steps - Verifying Tombola Image
+13:58:33.325 [main] INFO  stepDefinitions.steps - Clicking Accept Cookies
+13:58:33.923 [main] INFO  stepDefinitions.steps - Entering Username and Password
+14:00:56.112 [main] INFO  stepDefinitions.steps - Opening URL
+14:01:02.682 [main] INFO  stepDefinitions.steps - Maximizing window
+14:01:04.957 [main] INFO  stepDefinitions.steps - Waiting for page to load
+14:01:05.085 [main] INFO  stepDefinitions.steps - Verifying Tombola Image
+14:01:05.405 [main] INFO  stepDefinitions.steps - Clicking Accept Cookies
+14:01:05.986 [main] INFO  stepDefinitions.steps - Entering Username and Password
+14:01:07.207 [main] INFO  stepDefinitions.steps - Clicking Login button
+14:01:12.375 [main] INFO  stepDefinitions.steps - Verifying Page Title
+14:01:12.396 [main] INFO  stepDefinitions.steps - Verifying Account Page
+20:34:36.021 [main] INFO  stepDefinitions.steps - Opening URL
+20:35:07.784 [main] INFO  stepDefinitions.steps - Opening URL
+20:35:11.741 [main] INFO  stepDefinitions.steps - Maximizing window
+20:35:14.675 [main] INFO  stepDefinitions.steps - Waiting for page to load
+20:35:14.889 [main] INFO  stepDefinitions.steps - Verifying Tombola Image
+20:35:16.303 [main] INFO  stepDefinitions.steps - Clicking Accept Cookies
+20:35:16.777 [main] INFO  stepDefinitions.steps - Entering Username and Password
+20:35:17.917 [main] INFO  stepDefinitions.steps - Clicking Login button
+20:35:28.976 [main] INFO  stepDefinitions.steps - Verifying Page Title
+20:35:29.076 [main] INFO  stepDefinitions.steps - Verifying Account Page
+20:40:02.709 [main] INFO  stepDefinitions.steps - Opening URL
+20:40:09.518 [main] INFO  stepDefinitions.steps - Maximizing window
+20:40:09.709 [main] INFO  stepDefinitions.steps - Waiting for page to load
+20:40:09.967 [main] INFO  stepDefinitions.steps - Verifying Tombola Image
+20:40:10.609 [main] INFO  stepDefinitions.steps - Clicking Accept Cookies
+20:40:11.316 [main] INFO  stepDefinitions.steps - Entering Username and Password
+20:40:12.498 [main] INFO  stepDefinitions.steps - Clicking Login button
+20:40:21.576 [main] INFO  stepDefinitions.steps - Verifying Page Title
+20:40:21.618 [main] INFO  stepDefinitions.steps - Verifying Account Page
